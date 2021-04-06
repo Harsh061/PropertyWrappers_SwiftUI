@@ -1,0 +1,6 @@
+framework module Pods_PropertyWrappers {
+  umbrella header "Pods-PropertyWrappers-umbrella.h"
+
+  export *
+  module * { export * }
+}
